@@ -40,6 +40,12 @@ Tasks in the project include:
 
 To complete each task, navigate to the [0x02-functions_nested_loops](./0x02-functions_nested_loops) directory and follow the instructions provided in the [README](./0x02-functions_nested_loops/README.md) file.
 
+### [0x03-debugging](./0x03-debugging)
+
+This directory focuses on debugging and fixing issues in existing code. Tasks include testing functions, fixing infinite loops, handling leap years, and more. 🐞
+
+Please refer to the [README](./0x03-debugging/README.md) file inside the directory for detailed instructions and code examples to complete each task.
+
 ## Getting Started 🚀
 
 To get started with any project, follow these steps:
