@@ -27,6 +27,18 @@ Tasks in the project include:
 
 To complete each task, navigate to the [0x01-variables_if_else_while](./0x01-variables_if_else_while) directory and follow the instructions provided in the [README](./0x01-variables_if_else_while/README.md) file.
 
+### [0x02-functions_nested_loops](./0x02-functions_nested_loops)
+
+The Functions and Nested Loops project further explores functions and nested loop structures in C programming. It offers a range of tasks to enhance your skills and familiarity with functions, nested loops, and their application in various scenarios.
+
+Tasks in the project include:
+
+- Printing the times table, including the 9 times table and user-defined tables ✅
+- Computing the sum of multiples of 3 or 5 and the sum of even-valued Fibonacci numbers 🔢
+- Printing the Fibonacci sequence and finding the sum of the first 98 Fibonacci numbers 🌸
+- and more...
+
+To complete each task, navigate to the [0x02-functions_nested_loops](./0x02-functions_nested_loops) directory and follow the instructions provided in the [README](./0x02-functions_nested_loops/README.md) file.
 
 ## Getting Started 🚀
 
