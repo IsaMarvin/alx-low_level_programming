@@ -46,6 +46,46 @@ This directory focuses on debugging and fixing issues in existing code. Tasks in
 
 Please refer to the [README](./0x03-debugging/README.md) file inside the directory for detailed instructions and code examples to complete each task.
 
+### [0x04-more_functions_nested_loops](./0x04-more_functions_nested_loops)
+
+This directory contains solutions to various tasks related to more functions and nested loops in the C programming language. Each task is represented by a separate C file with a specific function to complete. The tasks cover topics such as character manipulation, multiplication, printing numbers, drawing shapes, and more.
+
+Tasks in the project include:
+- Write a function to check for an uppercase character.👆
+- Write a function to check for a digit (0 through 9).🔢
+-  Write a function to multiply two integers.✖️
+- and more...
+
+To complete each task, navigate to the [0x04-more_functions_nested_loops](./0x04-more_functions_nested_loops) directory and follow the instructions provided in the [README](./0x04-more_functions_nested_loops/README.md) file. 
+
+
+### [0x05-pointers_arrays_strings](./0x05-pointers_arrays_strings)
+
+This directory contains C programs that demonstrate the use of pointers, arrays, and strings in various functions. Each program focuses on a specific task and provides a solution using C programming concepts.
+
+Tasks in the project include:
+- swaps the values of two integers using pointers.↔️
+- return the length of a string (the number of characters in it) excluding the null terminator '\0'.🔤
+- print a string in reverse order followed by a new line.↩️
+- and more...
+
+To complete each task, navigate to the [0x05-pointers_arrays_strings](./0x05-pointers_arrays_strings) directory and follow the instructions provided in the [README](./0x05-pointers_arrays_strings/README.md) file. 
+
+
+### [0x06-pointers_arrays_strings](./0x06-pointers_arrays_strings)
+
+This directory contains C programs that demonstrate various string and array manipulation functions. The programs cover tasks such as string concatenation, string comparison, string copying, and more.📜➡️🖨️
+
+To complete each task, navigate to the [0x06-pointers_arrays_strings](./0x06-pointers_arrays_strings) directory and follow the instructions provided in the [README](./0x06-pointers_arrays_strings/README.md) file. 
+
+
+### [0x07-pointers_arrays_strings](./0x07-pointers_arrays_strings)
+
+This directory contains C programs that focus on pointers, arrays, and strings. 👨‍💻🔢📜
+
+To complete each task, navigate to the [0x07-pointers_arrays_strings](./0x07-pointers_arrays_strings) directory and follow the instructions provided in the [README](./0x07-pointers_arrays_strings/README.md) file.
+
+
 ## Getting Started 🚀
 
 To get started with any project, follow these steps:
