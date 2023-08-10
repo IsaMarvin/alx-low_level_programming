@@ -1,104 +1,47 @@
 # C Programming Repository 🌟
 
-Welcome to the C Programming Repository! 🚀 This repository contains multiple directories, each focusing on different aspects of C programming and coding exercises. Each directory represents a project and includes a README file with specific tasks and instructions.
-
-## Projects 📁
-
-Here are the projects available in this repository:
-
-### [0x00-hello_world](./0x00-hello_world)
-Here are some C programming tasks to sharpen your skills and explore different aspects of the C language. 💯
-
-Tasks in the project include:
-- Write a script that runs a C file through the preprocessor and saves the result into another file.✨
-- Write a script that compiles a C file without linking. 🔗
-- and more...
-
-Please refer to the [README](./0x00-hello_world/README.md) file inside the directory for detailed instructions and code examples to complete each task.
-
-### [0x01-variables_if_else_while](./0x01-variables_if_else_while)
-The Conditions and Loops project focuses on advanced conditional statements and loop structures in C programming. Through various tasks, you will learn how to use if-else statements, while loops, for loops, and nested loops effectively.
-
-Tasks in the project include:
-- Checking various conditions using if-else statements and printing the corresponding message ✅
-- Printing the alphabet in lowercase and uppercase using loops and the putchar function 🆎
-- Printing the alphabet while excluding specific letters using conditional statements and loops ❌
-- and more...
-
-To complete each task, navigate to the [0x01-variables_if_else_while](./0x01-variables_if_else_while) directory and follow the instructions provided in the [README](./0x01-variables_if_else_while/README.md) file.
-
-### [0x02-functions_nested_loops](./0x02-functions_nested_loops)
-
-The Functions and Nested Loops project further explores functions and nested loop structures in C programming. It offers a range of tasks to enhance your skills and familiarity with functions, nested loops, and their application in various scenarios.
-
-Tasks in the project include:
-
-- Printing the times table, including the 9 times table and user-defined tables ✅
-- Computing the sum of multiples of 3 or 5 and the sum of even-valued Fibonacci numbers 🔢
-- Printing the Fibonacci sequence and finding the sum of the first 98 Fibonacci numbers 🌸
-- and more...
-
-To complete each task, navigate to the [0x02-functions_nested_loops](./0x02-functions_nested_loops) directory and follow the instructions provided in the [README](./0x02-functions_nested_loops/README.md) file.
-
-### [0x03-debugging](./0x03-debugging)
-
-This directory focuses on debugging and fixing issues in existing code. Tasks include testing functions, fixing infinite loops, handling leap years, and more. 🐞
-
-Please refer to the [README](./0x03-debugging/README.md) file inside the directory for detailed instructions and code examples to complete each task.
-
-### [0x04-more_functions_nested_loops](./0x04-more_functions_nested_loops)
-
-This directory contains solutions to various tasks related to more functions and nested loops in the C programming language. Each task is represented by a separate C file with a specific function to complete. The tasks cover topics such as character manipulation, multiplication, printing numbers, drawing shapes, and more.
-
-Tasks in the project include:
-- Write a function to check for an uppercase character.👆
-- Write a function to check for a digit (0 through 9).🔢
--  Write a function to multiply two integers.✖️
-- and more...
-
-To complete each task, navigate to the [0x04-more_functions_nested_loops](./0x04-more_functions_nested_loops) directory and follow the instructions provided in the [README](./0x04-more_functions_nested_loops/README.md) file. 
+Welcome to the C Programming Repository! 🚀 This repository contains a collection of projects, each dedicated to different aspects of C programming and coding exercises. Each project directory comes with a comprehensive README file, detailing specific tasks and providing clear instructions.
 
 
-### [0x05-pointers_arrays_strings](./0x05-pointers_arrays_strings)
+## Projects
 
-This directory contains C programs that demonstrate the use of pointers, arrays, and strings in various functions. Each program focuses on a specific task and provides a solution using C programming concepts.
+Explore the projects available in this repository:
 
-Tasks in the project include:
-- swaps the values of two integers using pointers.↔️
-- return the length of a string (the number of characters in it) excluding the null terminator '\0'.🔤
-- print a string in reverse order followed by a new line.↩️
-- and more...
-
-To complete each task, navigate to the [0x05-pointers_arrays_strings](./0x05-pointers_arrays_strings) directory and follow the instructions provided in the [README](./0x05-pointers_arrays_strings/README.md) file. 
-
-
-### [0x06-pointers_arrays_strings](./0x06-pointers_arrays_strings)
-
-This directory contains C programs that demonstrate various string and array manipulation functions. The programs cover tasks such as string concatenation, string comparison, string copying, and more.📜➡️🖨️
-
-To complete each task, navigate to the [0x06-pointers_arrays_strings](./0x06-pointers_arrays_strings) directory and follow the instructions provided in the [README](./0x06-pointers_arrays_strings/README.md) file. 
-
-
-### [0x07-pointers_arrays_strings](./0x07-pointers_arrays_strings)
-
-This directory contains C programs that focus on pointers, arrays, and strings. 👨‍💻🔢📜
-
-To complete each task, navigate to the [0x07-pointers_arrays_strings](./0x07-pointers_arrays_strings) directory and follow the instructions provided in the [README](./0x07-pointers_arrays_strings/README.md) file.
+| Directory                                | Description                                                   |
+|------------------------------------------|---------------------------------------------------------------|
+| [0x00-hello_world](./0x00-hello_world)   | Introduction to C programming tasks.                         |
+| [0x01-variables_if_else_while](./0x01-variables_if_else_while) | Advanced conditions and loops.                  |
+| [0x02-functions_nested_loops](./0x02-functions_nested_loops)   | Exploring functions and nested loops.           |
+| [0x03-debugging](./0x03-debugging)       | Debugging and fixing issues.                                 |
+| [0x04-more_functions_nested_loops](./0x04-more_functions_nested_loops) | Additional functions and nested loops.    |
+| [0x05-pointers_arrays_strings](./0x05-pointers_arrays_strings)     | Pointers, arrays, and strings manipulation.  |
+| [0x06-pointers_arrays_strings](./0x06-pointers_arrays_strings)     | More string and array manipulation.           |
+| [0x07-pointers_arrays_strings](./0x07-pointers_arrays_strings)     | Further pointers, arrays, and strings.       |
+| [0x08-recursion](./0x08-recursion)     | Scripsts to implement recursion in nested loops       |
+| [0x09-static_libraries](./0x09-static_libraries)     | Static libraries management and implementation of them       |
+| [0x0A-argc_argv](./0x0A-argc_argv)     | Usage of argc and argv in command-line programs.      |
+| [0x0B-malloc_free](./0x0B-malloc_free)     | Dynamic memory allocation and deallocation using malloc and free.      |
+| [0x0C-more_malloc_free](./0x0C-more_malloc_free)     | Additional dynamic memory allocation and deallocation using malloc and free.      |
 
 
-## Getting Started 🚀
+Click on the project links above to navigate to the detailed instructions and tasks in each directory.
 
-To get started with any project, follow these steps:
+## Getting Started
+
+To begin with any project, follow these steps:
 
 ### Usage Instructions
 
-1. Open your favorite integrated development environment (IDE) or a text editor.
+1. Open your preferred integrated development environment (IDE) or text editor.
 2. Clone the repository to your local machine using the command `git clone https://github.com/IsaMarvin/alx-low_level_programming.git`.
-3. Navigate to the corresponding project directory using the `cd` command.
-4. Inside the project directory, you will find a README file with detailed instructions for each task.
-5. Write your C code according to the task requirements and examples provided.
-6. Compile and run your code using a C compiler or IDE.
+3. Navigate to the relevant project directory using the `cd` command.
+4. Inside the project directory, discover the README file with comprehensive task instructions.
+5. Craft your C code based on task requirements and provided examples.
+6. Compile and execute your code using a C compiler or IDE.
 
-Feel free to explore the projects at your own pace. If you have any questions or encounter any difficulties, don't hesitate to open an issue [issues page](../../issues).
+### Detailed Explanations 📑
+For detailed explanations of each step and the commands used, you can refer to the commit descriptions in the directory's commit history. Each commit message contains a clear description of the actions taken, including the relevant commands used in the terminal.
+
+Feel free to explore the projects at your own pace. If you have any questions or encounter difficulties, don't hesitate to open an issue on the [issues page](../../issues).
 
 Happy coding in C! 🎉
