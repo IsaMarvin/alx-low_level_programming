@@ -22,6 +22,9 @@ Explore the projects available in this repository:
 | [0x0A-argc_argv](./0x0A-argc_argv)     | Usage of argc and argv in command-line programs.      |
 | [0x0B-malloc_free](./0x0B-malloc_free)     | Dynamic memory allocation and deallocation using malloc and free.      |
 | [0x0C-more_malloc_free](./0x0C-more_malloc_free)     | Additional dynamic memory allocation and deallocation using malloc and free.      |
+| [0x0D-preprocessor](./0x0D-preprocessor)     | Use of the preprocessor directives and macros in C      |
+| [0x0E-structures_typedef](./0x0E-structures_typedef)     | Implementation of structures typedef      |
+| [0x0F-function_pointers](./0x0F-function_pointers)     | Implementation of function pointers in data structures      |
 
 
 Click on the project links above to navigate to the detailed instructions and tasks in each directory.
