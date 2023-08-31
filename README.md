@@ -25,6 +25,7 @@ Explore the projects available in this repository:
 | [0x0D-preprocessor](./0x0D-preprocessor)     | Use of the preprocessor directives and macros in C      |
 | [0x0E-structures_typedef](./0x0E-structures_typedef)     | Implementation of structures typedef      |
 | [0x0F-function_pointers](./0x0F-function_pointers)     | Implementation of function pointers in data structures      |
+| [0x10-variadic_functions](./0x10-variadic_functions)     | Use of variadic functions     |
 
 
 Click on the project links above to navigate to the detailed instructions and tasks in each directory.
